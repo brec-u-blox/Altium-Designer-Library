@@ -2,7 +2,7 @@
 Symbols and Footprints for Altium Designer
 --------------------------------------------------------------------------------
 
-Copyright (C) u-blox 
+Copyright © u-blox 
 
 u-blox reserves all rights in this deliverable (documentation, software, etc., 
 hereafter “Deliverable”). 
